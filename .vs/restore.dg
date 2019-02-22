@@ -1,0 +1,11 @@
+#:C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp\ToDoApp.xproj
+C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp\ToDoApp.xproj|C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp.AppServices\ToDoApp.AppServices.xproj
+C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp\ToDoApp.xproj|C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp.IoC\ToDoApp.IoC.xproj
+C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp.AppServices\ToDoApp.AppServices.xproj|C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp.Domain\ToDoApp.Domain.xproj
+C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp.AppServices\ToDoApp.AppServices.xproj|C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp.DomainServices\ToDoApp.DomainServices.xproj
+C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp.DomainServices\ToDoApp.DomainServices.xproj|C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp.Domain\ToDoApp.Domain.xproj
+C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp.IoC\ToDoApp.IoC.xproj|C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp.AppServices\ToDoApp.AppServices.xproj
+C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp.IoC\ToDoApp.IoC.xproj|C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp.Data\ToDoApp.Data.xproj
+C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp.IoC\ToDoApp.IoC.xproj|C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp.Domain\ToDoApp.Domain.xproj
+C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp.IoC\ToDoApp.IoC.xproj|C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp.DomainServices\ToDoApp.DomainServices.xproj
+C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp.Data\ToDoApp.Data.xproj|C:\Users\mlatham\Documents\Visual Studio 2015\Projects\ToDoApp.Api\src\ToDoApp.Domain\ToDoApp.Domain.xproj

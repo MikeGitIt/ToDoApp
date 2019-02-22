@@ -1,0 +1,12 @@
+C:\Users\owner\Desktop\ToDoApp.Api\src\ToDoApp.DomainServices\bin\Debug\netstandard1.6\ToDoApp.DomainServices.deps.json
+C:\Users\owner\Desktop\ToDoApp.Api\src\ToDoApp.DomainServices\bin\Debug\netstandard1.6\ToDoApp.DomainServices.dll
+C:\Users\owner\Desktop\ToDoApp.Api\src\ToDoApp.DomainServices\bin\Debug\netstandard1.6\ToDoApp.DomainServices.pdb
+C:\Users\owner\Desktop\ToDoApp.Api\src\ToDoApp.DomainServices\bin\Debug\netstandard1.6\ToDoApp.Domain.dll
+C:\Users\owner\Desktop\ToDoApp.Api\src\ToDoApp.DomainServices\bin\Debug\netstandard1.6\ToDoApp.Domain.pdb
+C:\Users\owner\Desktop\ToDoApp.Api\src\ToDoApp.DomainServices\obj\Debug\netstandard1.6\ToDoApp.DomainServices.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\ToDoApp.Api\src\ToDoApp.DomainServices\obj\Debug\netstandard1.6\ToDoApp.DomainServices.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\ToDoApp.Api\src\ToDoApp.DomainServices\obj\Debug\netstandard1.6\ToDoApp.DomainServices.AssemblyInfoInputs.cache
+C:\Users\owner\Desktop\ToDoApp.Api\src\ToDoApp.DomainServices\obj\Debug\netstandard1.6\ToDoApp.DomainServices.AssemblyInfo.cs
+C:\Users\owner\Desktop\ToDoApp.Api\src\ToDoApp.DomainServices\obj\Debug\netstandard1.6\ToDoApp.DomainServices.csproj.CopyComplete
+C:\Users\owner\Desktop\ToDoApp.Api\src\ToDoApp.DomainServices\obj\Debug\netstandard1.6\ToDoApp.DomainServices.dll
+C:\Users\owner\Desktop\ToDoApp.Api\src\ToDoApp.DomainServices\obj\Debug\netstandard1.6\ToDoApp.DomainServices.pdb
